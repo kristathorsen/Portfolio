@@ -1,0 +1,84 @@
+/*Style the color of the links*/
+a:link {
+  color: #274C77;
+}
+/*Style the color of the links after they have been clicked*/
+a:visited {
+  color: #A3CEF1;
+}
+/*Style the color of the links when the mouse hovers over them*/
+a:hover {
+  color: #FFFFFF;
+}
+/*Style the color of the links when they are being clicked*/
+a:active {
+  color: #AAF683;
+}
+/*Style the background color of the entire page*/
+body {
+  background-color: #CED4DA;
+}
+/*Style and add padding to the center class*/
+.center {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+/*Style the color and font of the footer*/
+footer {
+  color: #212529;
+  font-family: 'Veranda', sans-serif;
+  text-align: center;
+}
+/*Style the color and font of the h1 element*/
+h1 {
+  color: #212529;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+/*Style the color and font of the h2 element*/
+h2 {
+  color: #212529;
+  text-align: center;
+  font-family: 'Courier New', monospace;
+  font-size: 25px;
+}
+/*Style the color and font of the h3 elements*/
+h3 {
+  color: #212529;
+  font-family: 'Courier New', monospace;
+  font-size: 20px;
+}
+/*Style hr height and add margins*/
+hr {
+  height: 1px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+/*Style intro class text to align to the center of page*/ 
+.intro {
+  text-align: center;
+}
+/*Style margin class to add a left margin*/
+.left-margin {
+  margin-left: 20px;
+}
+/*Add margins to margin class*/
+.margin {
+  margin-bottom: 80px;
+}
+/*Style the text of the paragraph elements*/
+p {
+  color: #212529;
+  font-family: 'Veranda', sans-serif;
+}
+/*Style the text of the ordered list*/
+ol {
+  color: #212529;
+  font-family: 'Veranda', sans-serif;
+}
+/*Style the text of the ordered list*/
+ul {
+  color: #212529;
+  font-family: 'Veranda', sans-serif;
+}
